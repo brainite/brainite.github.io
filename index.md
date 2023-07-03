@@ -9,7 +9,7 @@ Open source projects:
 1. [Visualization](https://brainite.org/visualization/)
 1. [Glance](https://brainite.org/glance/) (archived 2023-05-16)
 1. [Phonarc](https://brainite.org/phonarc/)
-1. [Todoist-PHP](https://brainite.org/todoist-php/)
+1. [Todoist-PHP](https://brainite.org/todoist-php/) (archived 2023-06-16)
 1. [Broccoli Steamer](https://brainite.org/broccoli-steamer/)
 1. [OfficeMacros](https://brainite.org/OfficeMacros/)
 1. [OPauth-LinkedIn on GitHub](https://github.com/brainite/linkedin)
